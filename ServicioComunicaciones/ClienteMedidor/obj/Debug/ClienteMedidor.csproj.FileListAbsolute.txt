@@ -1,0 +1,11 @@
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteMedidor\bin\Debug\ClienteMedidor.exe.config
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteMedidor\bin\Debug\ClienteMedidor.exe
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteMedidor\bin\Debug\ClienteMedidor.pdb
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteMedidor\bin\Debug\ClienteSocketUtils.dll
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteMedidor\bin\Debug\ClienteSocketUtils.pdb
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteMedidor\obj\Debug\ClienteMedidor.csproj.AssemblyReference.cache
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteMedidor\obj\Debug\ClienteMedidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteMedidor\obj\Debug\ClienteMedidor.csproj.CoreCompileInputs.cache
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteMedidor\obj\Debug\ClienteMedidor.csproj.CopyComplete
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteMedidor\obj\Debug\ClienteMedidor.exe
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteMedidor\obj\Debug\ClienteMedidor.pdb

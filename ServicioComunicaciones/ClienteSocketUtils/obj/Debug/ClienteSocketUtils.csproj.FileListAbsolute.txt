@@ -1,0 +1,6 @@
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteSocketUtils\bin\Debug\ClienteSocketUtils.dll
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteSocketUtils\bin\Debug\ClienteSocketUtils.pdb
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.csproj.AssemblyReference.cache
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.dll
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.pdb

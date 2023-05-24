@@ -1,0 +1,6 @@
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\LecturasModel\bin\Debug\LecturasModel.dll
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\LecturasModel\bin\Debug\LecturasModel.pdb
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\LecturasModel\obj\Debug\LecturasModel.csproj.AssemblyReference.cache
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\LecturasModel\obj\Debug\LecturasModel.csproj.CoreCompileInputs.cache
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\LecturasModel\obj\Debug\LecturasModel.dll
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\LecturasModel\obj\Debug\LecturasModel.pdb

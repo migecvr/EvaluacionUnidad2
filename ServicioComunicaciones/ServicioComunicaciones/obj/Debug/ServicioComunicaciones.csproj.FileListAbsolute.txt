@@ -1,0 +1,13 @@
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\bin\Debug\ServicioComunicaciones.exe.config
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\bin\Debug\ServicioComunicaciones.exe
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\bin\Debug\ServicioComunicaciones.pdb
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\bin\Debug\LecturasModel.dll
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\bin\Debug\ServidorSocketUtils.dll
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\bin\Debug\LecturasModel.pdb
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\bin\Debug\ServidorSocketUtils.pdb
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\obj\Debug\ServicioComunicaciones.csproj.AssemblyReference.cache
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\obj\Debug\ServicioComunicaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\obj\Debug\ServicioComunicaciones.csproj.CoreCompileInputs.cache
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\obj\Debug\ServicioComunicaciones.csproj.CopyComplete
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\obj\Debug\ServicioComunicaciones.exe
+C:\Users\IamBatman\source\repos\ServicioComunicaciones\ServicioComunicaciones\obj\Debug\ServicioComunicaciones.pdb
